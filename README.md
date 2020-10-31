@@ -11,8 +11,4 @@ Has GDP increased over time in the six nations?
 Is there a correlation between GDP and life expectancy of a country?
 What is the average life expectancy in these nations?
 What is the distribution of that life expectancy?
-Data sources
 
-GDP Source: World Bank national accounts data, and OECD National Accounts data files.
-
-Life expectancy Data Source: World Health Organization
