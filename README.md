@@ -1,6 +1,5 @@
-# Life-Expectancy-and-GDP
+# Introduction
 
-Introduction
 This project will investigate if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.
 
 The goals are to prepare data, followed by analysis with plots, and seek to explain the findings from the study.
